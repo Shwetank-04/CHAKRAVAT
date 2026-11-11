@@ -1,0 +1,8 @@
+id,name,district,state,latitude,longitude,capacity,current_occupancy,contact_phone,is_accessible,source_label
+SHL-OD-001,Puri Cyclone Shelter No. 1,Puri,Odisha,19.7983,85.8341,1500,420,+91-6752-222100,True,ILLUSTRATIVE DEMO RECORD
+SHL-OD-002,Kendrapara Coastal Safe Haven,Kendrapara,Odisha,20.4985,86.4253,1200,890,+91-6727-234150,True,ILLUSTRATIVE DEMO RECORD
+SHL-WB-001,Digha Multi-purpose Cyclone Shelter,Purba Medinipur,West Bengal,21.6264,87.5236,2000,1620,+91-3220-266100,True,ILLUSTRATIVE DEMO RECORD
+SHL-WB-002,Kakdwip Delta Cyclone Haven,South 24 Parganas,West Bengal,21.8742,88.1884,1100,450,+91-3210-255210,False,ILLUSTRATIVE DEMO RECORD
+SHL-AP-001,Visakhapatnam Coastal Relief Center,Visakhapatnam,Andhra Pradesh,17.7231,83.3012,1750,510,+91-891-2564880,True,ILLUSTRATIVE DEMO RECORD
+SHL-AP-002,Srikakulam Community Cyclone Shelter,Srikakulam,Andhra Pradesh,18.2949,83.8938,950,280,+91-8942-222500,True,ILLUSTRATIVE DEMO RECORD
+SHL-GJ-001,Porbandar Coastal Shelter,Porbandar,Gujarat,21.6417,69.6293,1800,620,+91-286-2241030,True,ILLUSTRATIVE DEMO RECORD
